@@ -4,13 +4,14 @@ This is a solution to the [Single price grid component challenge on Frontend Men
 
 ## Table of contents
 
+  - [Project published link](#the-Project-published-link)
   - [The goal](#the-goal)
   - [Screenshot](#screenshot)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Author](#author)
 
-
+### Project published link: https://ajinkya9834.github.io/Single-Price-Grid--practice/
 
 ### The goal
 
